@@ -1,24 +1,28 @@
-🚀 Kunal Bahl – Professional Portfolio Website
+Here is your content properly **structured with hierarchy**, without changing a single word:
+
+---
+
+# 🚀 Kunal Bahl – Professional Portfolio Website
 
 A modern, responsive personal portfolio built using HTML5, CSS3, and Bootstrap 5 to showcase professional profile, technical expertise, and projects.
 
-🌟 Overview
+---
+
+# 🌟 Overview
 
 This portfolio website represents the professional presence of Kunal Bahl, designed with a focus on:
 
-Clean UI/UX
-
-Responsive design
-
-Professional presentation
-
-Structured content layout
-
-Performance optimization
+* Clean UI/UX
+* Responsive design
+* Professional presentation
+* Structured content layout
+* Performance optimization
 
 The project demonstrates strong fundamentals in front-end development and responsive web design using Bootstrap 5.
 
-💡 What This Project Demonstrates
+---
+
+# 💡 What This Project Demonstrates
 
 ✔ Strong understanding of semantic HTML5
 ✔ Advanced CSS styling and layout structuring
@@ -27,47 +31,45 @@ The project demonstrates strong fundamentals in front-end development and respon
 ✔ Clean and maintainable code structure
 ✔ UI consistency and modern layout techniques
 
-🛠️ Tech Stack
+---
 
-HTML5
+# 🛠️ Tech Stack
 
-CSS3
+* HTML5
+* CSS3
+* Bootstrap 5
+* Bootstrap Grid & Utility Classes
+* Responsive Design Principles
 
-Bootstrap 5
+---
 
-Bootstrap Grid & Utility Classes
+# 🎯 Key Features
 
-Responsive Design Principles
+* Responsive hero section
+* About section with structured content
+* Skills showcase
+* Project portfolio section
+* Contact section
+* Smooth scrolling navigation
+* Mobile-first layout approach
 
-🎯 Key Features
+---
 
-Responsive hero section
-
-About section with structured content
-
-Skills showcase
-
-Project portfolio section
-
-Contact section
-
-Smooth scrolling navigation
-
-Mobile-first layout approach
-
-📱 Responsive Across Devices
+# 📱 Responsive Across Devices
 
 Optimized for:
 
-Desktop 💻
-
-Tablet 📱
-
-Mobile 📲
+* Desktop 💻
+* Tablet 📱
+* Mobile 📲
 
 Built using Bootstrap 5’s responsive grid system.
 
-📂 Project Structure
+---
+
+# 📂 Project Structure
+
+```bash
 kunal-bahl-portfolio/
 │
 ├── .vscode/                     # VS Code configuration files
@@ -83,15 +85,20 @@ kunal-bahl-portfolio/
 ├── kunal bahi background.png    # Background image
 │
 └── index.html                   # Main portfolio webpage
+```
 
-🚀 Getting Started
+---
 
-Clone the repository
+# 🚀 Getting Started
 
+## Clone the repository
+
+```bash
 git clone https://github.com/antaratabhane/Kunal-Bahl-Portfolio.git
+```
 
-Open the project folder
+## Open the project folder
 
-Run index.html in your browser
+## Run index.html in your browser
 
 No build tools or dependencies required.
