@@ -1,14 +1,11 @@
-Here is your content properly **structured with hierarchy**, without changing a single word:
 
----
-
-# 🚀 Kunal Bahl – Professional Portfolio Website
+# #🚀 Kunal Bahl – Professional Portfolio Website
 
 A modern, responsive personal portfolio built using HTML5, CSS3, and Bootstrap 5 to showcase professional profile, technical expertise, and projects.
 
 ---
 
-# 🌟 Overview
+# # 🌟 Overview
 
 This portfolio website represents the professional presence of Kunal Bahl, designed with a focus on:
 
