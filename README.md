@@ -1,11 +1,11 @@
 
-# #🚀 Kunal Bahl – Professional Portfolio Website
+# 🚀 Kunal Bahl – Professional Portfolio Website
 
 A modern, responsive personal portfolio built using HTML5, CSS3, and Bootstrap 5 to showcase professional profile, technical expertise, and projects.
 
----
+<br>
 
-# # 🌟 Overview
+# 🌟 Overview
 
 This portfolio website represents the professional presence of Kunal Bahl, designed with a focus on:
 
@@ -17,7 +17,7 @@ This portfolio website represents the professional presence of Kunal Bahl, desig
 
 The project demonstrates strong fundamentals in front-end development and responsive web design using Bootstrap 5.
 
----
+<br>
 
 # 💡 What This Project Demonstrates
 
@@ -28,7 +28,7 @@ The project demonstrates strong fundamentals in front-end development and respon
 ✔ Clean and maintainable code structure
 ✔ UI consistency and modern layout techniques
 
----
+<br>
 
 # 🛠️ Tech Stack
 
@@ -38,7 +38,7 @@ The project demonstrates strong fundamentals in front-end development and respon
 * Bootstrap Grid & Utility Classes
 * Responsive Design Principles
 
----
+<br>
 
 # 🎯 Key Features
 
@@ -50,7 +50,7 @@ The project demonstrates strong fundamentals in front-end development and respon
 * Smooth scrolling navigation
 * Mobile-first layout approach
 
----
+<br>
 
 # 📱 Responsive Across Devices
 
@@ -62,7 +62,7 @@ Optimized for:
 
 Built using Bootstrap 5’s responsive grid system.
 
----
+<br>
 
 # 📂 Project Structure
 
@@ -84,7 +84,7 @@ kunal-bahl-portfolio/
 └── index.html                   # Main portfolio webpage
 ```
 
----
+<br>
 
 # 🚀 Getting Started
 
@@ -94,8 +94,8 @@ kunal-bahl-portfolio/
 git clone https://github.com/antaratabhane/Kunal-Bahl-Portfolio.git
 ```
 
-## Open the project folder
+Open the project folder
 
-## Run index.html in your browser
+Run index.html in your browser
 
 No build tools or dependencies required.
