@@ -7,7 +7,7 @@ A modern, responsive personal portfolio built using HTML5, CSS3, and Bootstrap 5
 
 ## 🚀 Live Demo
 
-<a href="https://antaratabhane.github.io/Kunal-Bahl-Portfolio/" target="_blank">[https://antaratabhane.github.io/Kunal-Bahl-Portfolio/](https://antaratabhane.github.io/Kunal-Bahl-Portfolio/)</a>
+<a href="https://antaratabhane.github.io/Kunal-Bahl-Portfolio/" target="_blank">Portfolio Preview</a>
 
  <br>
 
