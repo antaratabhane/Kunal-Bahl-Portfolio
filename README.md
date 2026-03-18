@@ -27,12 +27,12 @@ The project demonstrates strong fundamentals in front-end development and respon
 
 ## 💡 What This Project Demonstrates
 
-✔ Strong understanding of semantic HTML5
-✔ Advanced CSS styling and layout structuring
-✔ Bootstrap 5 grid system and components
-✔ Responsive web design principles
-✔ Clean and maintainable code structure
-✔ UI consistency and modern layout techniques
+✔ Strong understanding of semantic HTML5  
+✔ Advanced CSS styling and layout structuring  
+✔ Bootstrap 5 grid system and components  
+✔ Responsive web design principles  
+✔ Clean and maintainable code structure  
+✔ UI consistency and modern layout techniques  
 
 <br>
 
